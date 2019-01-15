@@ -5,5 +5,9 @@ const Album = () => (
     Album page will go here
   </section>
 );
+<<<<<<< HEAD
 
 export default Album;
+=======
+export default Album;
+>>>>>>> assignment-3-routing
